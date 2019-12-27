@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: JXC
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.java1234
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/JXC/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
